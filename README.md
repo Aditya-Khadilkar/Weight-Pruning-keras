@@ -21,7 +21,7 @@
   </body>
   <h1> WHY TO DO THIS?</h1>
   <h3> Accuracy shoots up after retraining!<br></h3>
-  <h2>I got 90 % accuracy on the orignal model after pruning it rose to <b>99 %</b></h2><br>
+  <h2>I got 90 % accuracy on the orignal model after pruning and retraining it rose to <b>99 %</b></h2><br>
   I have tried multiple pruning percentages to see node pruning accuracy, weight pruning accuracy, and retraining accuracy for both.<br>
   <br>
   <h4>Heres the graph:</h4>
