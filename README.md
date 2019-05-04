@@ -25,7 +25,7 @@
   I have tried multiple pruning percentages to see node pruning accuracy, weight pruning accuracy, and retraining accuracy for both.<br>
   <br>
   <h4>Heres the graph:</h4>
-  
+  ![image](https://user-images.githubusercontent.com/35966791/57179613-320acc00-6e9d-11e9-8725-3046aaa558b4.png)
   
   
   
